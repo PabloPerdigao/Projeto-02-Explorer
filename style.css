@@ -79,7 +79,6 @@ button {
   align-items: center;
   gap: 10px;
   cursor: pointer;
-  button: :hover
 }
 
 button:hover {
