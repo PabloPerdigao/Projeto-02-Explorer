@@ -1,3 +1,10 @@
+
+
+body {
+
+}
+
 .page {
-  border: 1px solid red;
+  width: 1000px;
+  margin: 65px auto 0;
 }
