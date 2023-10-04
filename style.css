@@ -70,6 +70,20 @@ section p {
 button {
   text-transform: uppercase;
   font-family: 'DM Sans', sans-serif;
+  border-radius: 4px;
+  border-color: #69B99D;
+  background: #69B99D;
+  color:  #F9F9F9;
+  display: inline-flex;
+  padding: 14px 32px 15px 32px;
+  align-items: center;
+  gap: 10px;
+  cursor: pointer;
+  button: :hover
+}
+
+button:hover {
+  background: #57c7a0;
 }
 
 footer {
