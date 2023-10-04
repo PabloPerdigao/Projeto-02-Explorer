@@ -28,7 +28,8 @@ ul {
   padding: 0;
   
 }
-ul li a {
+
+a {
   color: #1F1534;
   text-decoration: none;
 }
@@ -75,6 +76,10 @@ footer {
   color: #1F1534;
   font-size: 14px;
   line-height: 28px;
+
+  text-align: center;
+
+  margin-top: 80px;
 }
 
 footer a {
