@@ -44,7 +44,7 @@ h1, ul {
 h1 {
   font-size: 49px;
   line-height: 56px;
-  color: #000;
+  color: #1F1534;
 }
 
 h1 span {
@@ -61,4 +61,14 @@ p {
 button {
   text-transform: uppercase;
   font-family: 'DM Sans', sans-serif;
+}
+
+footer {
+  color: #1F1534;
+  font-size: 14px;
+  line-height: 28px;
+}
+
+footer a {
+font-weight: bold;
 }
