@@ -52,6 +52,13 @@ h1 span {
   font-weight: bold;
 }
 
+p {
+  font-size: 14px;
+  font-weight: 28px;
+  color: #7D7987;
+}
+
 button {
+  text-transform: uppercase;
   font-family: 'DM Sans', sans-serif;
 }
