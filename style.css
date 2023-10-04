@@ -2,6 +2,8 @@
 
 body {
 margin: 0;
+
+font-family: 'Open Sans', sans-serif;
 }
 
 .page {
@@ -13,7 +15,7 @@ nav {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  
+
   margin-bottom: 55px;
 }
 
@@ -24,4 +26,21 @@ ul {
   gap: 48px;
   margin: 0;
   padding: 0;
+  
+}
+ul li a {
+  color: #1F1534;
+  text-decoration: none;
+}
+/* pseudo-class*/
+ul li a:hover {
+  font-weight: bold;
+}
+
+h1, ul {
+  font-family: 'Mulish', sans-serif;
+}
+
+button {
+  font-family: 'DM Sans', sans-serif;
 }
