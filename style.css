@@ -41,6 +41,12 @@ h1, ul {
   font-family: 'Mulish', sans-serif;
 }
 
+main {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
 h1 {
   font-size: 49px;
   line-height: 56px;
@@ -52,10 +58,12 @@ h1 span {
   font-weight: bold;
 }
 
-p {
+section p {
   font-size: 14px;
   font-weight: 28px;
   color: #7D7987;
+
+  margin: 40px 0;
 }
 
 button {
