@@ -13,7 +13,9 @@ header {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  margin-bottom: 55px;
 }
+
 
 ul {
   list-style: none;
