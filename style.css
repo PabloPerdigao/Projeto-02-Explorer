@@ -8,3 +8,8 @@ body {
   width: 1000px;
   margin: 65px auto 0;
 }
+
+header {
+  display: flex;
+  justify-content: space-between;
+}
