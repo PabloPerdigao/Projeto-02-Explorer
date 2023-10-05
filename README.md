@@ -46,7 +46,7 @@ O Projeto 02 é um site básico com o intuito de divulgar o serviço de uma empr
 - [Link de acesso ao treinamento ](www.instagram.com/@pablo.perdigao/)
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/RoTJTF7TfxonTCWeWzruRI/Projeto01-Extra-(Copy)?node-id=12%3A2&mode=dev). <br/> <strong>OBS:
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/wN9p1hvrDiPZmwOR3EXMki/Explorer---Projeto-02-(Copy)?type=design&node-id=0-1&mode=design&t=D2FOYZ0JqcCMNMxW-0). <br/> <strong>OBS:
 </strong> É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## 📝 Licença
@@ -55,5 +55,5 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-😉Feito com ♥ by Pablo Perdigão,aluno Explorer da Rocketseat! <br/>
-👋[Participe da comunidade Rocketseat!](https://discord.gg/rocketseat)
+😉 Feito com ♥ by Pablo Perdigão,aluno Explorer da Rocketseat! <br/>
+📲 [Participe da comunidade Rocketseat!](https://discord.gg/rocketseat)
